@@ -20,3 +20,9 @@
 <img width="1920" height="1080" alt="Screenshot 2026-09-27 140304" src="https://github.com/user-attachments/assets/a9a122fd-5c08-478d-8d9b-055fa25060aa" />
 
 <img width="1920" height="1080" alt="Screenshot 2026-09-27 140314" src="https://github.com/user-attachments/assets/02dd8f36-5102-416d-b733-19033050b465" />
+- Tạo đường hầm tới cloudflared
+<img width="1920" height="1080" alt="Screenshot 2026-09-28 002408" src="https://github.com/user-attachments/assets/acb46e5c-fad6-4ef9-b517-a1ae77f60286" />
+- Khởi chạy 2 trang web thử nghiệm chạy trên 2 domain khác nhau
+<img width="1920" height="1080" alt="Screenshot 2026-09-28 002527" src="https://github.com/user-attachments/assets/53d754f5-ab6f-4876-be88-65862f79a7de" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-09-28 002531" src="https://github.com/user-attachments/assets/7dd2673d-bbc4-49b2-a113-90c05d4d6d79" />
