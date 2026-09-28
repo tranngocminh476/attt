@@ -22,7 +22,22 @@
 <img width="1920" height="1080" alt="Screenshot 2026-09-27 140314" src="https://github.com/user-attachments/assets/02dd8f36-5102-416d-b733-19033050b465" />
 - Tạo đường hầm tới cloudflared
 <img width="1920" height="1080" alt="Screenshot 2026-09-28 002408" src="https://github.com/user-attachments/assets/acb46e5c-fad6-4ef9-b517-a1ae77f60286" />
-- Khởi chạy 2 trang web thử nghiệm chạy trên 2 domain khác nhau
+
+## 4. Khởi chạy 2 trang web thử nghiệm chạy trên 2 domain khác nhau
+
+
 <img width="1920" height="1080" alt="Screenshot 2026-09-28 002527" src="https://github.com/user-attachments/assets/53d754f5-ab6f-4876-be88-65862f79a7de" />
 
 <img width="1920" height="1080" alt="Screenshot 2026-09-28 002531" src="https://github.com/user-attachments/assets/7dd2673d-bbc4-49b2-a113-90c05d4d6d79" />
+
+## 5. sử dụng nodered: dùng node http_in + http_response => tạo api đơn giản
+<img width="1920" height="1080" alt="Screenshot 2026-09-28 185256" src="https://github.com/user-attachments/assets/b4f354e3-b0d2-46b9-8f63-22062a9d7324" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-09-28 185643" src="https://github.com/user-attachments/assets/0fe241ab-71db-4b27-8743-086ccaaf9dbf" />
+
+## 6. cấu hình nginx để web dùng js gọi đc API trên nodered
+
+<img width="1920" height="1080" alt="Screenshot 2026-09-28 185455" src="https://github.com/user-attachments/assets/e7b733a0-df97-4374-9479-6cba33bcf75d" />
+
+## 7 code js vào trang html để gọi đc api 
+<img width="1920" height="1080" alt="Screenshot 2026-09-28 185925" src="https://github.com/user-attachments/assets/696937b1-daea-49d4-ae5a-79354203b7ae" />
